@@ -1,0 +1,182 @@
+.topc{
+    position: relative;
+    background-color: rgb(34, 35, 34);
+    padding-top: 100px;
+    font-size: large;
+    
+}
+.profile{
+    background-color: rgb(34, 35, 34);
+    padding-bottom: 20px;
+    padding-top: 40px;
+
+}
+.fresh{
+    color: aliceblue;
+
+}
+
+body{
+    margin: 0px;
+    text-align: center;
+    font-family:'Lucida Sans';
+    
+}
+
+
+
+span{
+    text-decoration: underline;
+
+}
+
+h1{
+    width: 20%;
+    margin: 0 auto;
+    margin: 2px auto 0 auto;
+    font-family: 'Oswald', sans-serif;
+    color: aliceblue;
+    font-size: 300%;
+    
+    
+}
+.desc{
+    color: aliceblue;
+    font-weight: normal;
+    font-size: 1.75rem;
+    margin-top: 3px;
+}
+
+.ht{
+    color: aliceblue;
+
+}
+h2{
+    font-family: 'Oswald', sans-serif;
+    
+
+}
+h3{
+    font-family: 'Oswald', sans-serif;
+    
+
+}
+.botcld{
+    position: absolute;
+    left: 400px;
+    bottom: 300px;
+}
+.topcld{
+    position: absolute;
+    right: 400px;
+    top: 40px;
+}
+.git{
+    margin-top: 2px;
+}
+
+
+.comp{
+    height: 55px;
+    width: 55px;
+    float: left;
+    margin-right: 20px;
+}
+
+.pfp{
+    height: 200px;
+    width: 200px;
+}
+
+.sports{
+    height: 55px;
+    width: 55px;
+    float: left;
+    margin-right: 20px;
+
+}
+.endblack{
+    background-color: rgb(34, 35, 34);
+}
+.contact-me{
+    background-color: rgb(34, 35, 34);
+    color: aliceblue;
+
+}
+.bottom-container{
+    background-color: rgb(34, 35, 34);
+    color: aliceblue;
+    padding-top: 40px;
+    
+}
+.cr{
+    position: relative;
+    margin-bottom: 0;
+    padding-bottom: 12px;
+    font-size: 0.75rem;
+}
+
+.footer-link{
+    color: aliceblue;
+}
+.jr{
+    color: aliceblue;
+    
+}
+.jr:hover{
+    color: rgb(219, 205, 200);
+}
+.mb{
+    color: aliceblue;
+
+}
+.mb:hover{
+    color: rgb(219, 205, 200);
+
+}
+
+.btn{
+    color: aliceblue;
+
+}
+
+.skill-row{
+    width: 50%;
+    margin: 50px auto 50px auto;
+    text-align: left;
+    line-height: 2;
+}
+.sr2{
+    width: 50%;
+    margin: 50px auto 50px auto;
+    text-align: left;
+    line-height: 2;
+
+}
+.btn {
+    -webkit-border-radius: 60;
+    -moz-border-radius: 60;
+    border-radius: 60px;
+    font-family:'Lucida Sans';
+    ;
+    color: #000000;
+    font-size: 15px;
+    background: #8d8282;
+    padding: 10px 20px 11px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #ffffff;
+    text-decoration: none;
+  }
+.footer-link{
+    margin: 0 10px;
+    
+    text-decoration: none;
+    
+  }
+ 
+  .footer-link:hover{
+    color: rgb(219, 205, 200);
+  }
